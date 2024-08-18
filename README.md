@@ -14,7 +14,7 @@ CMYNetwork，中文名称”红莓网络”，隶属于 CMYNetwork Technology Co
 <li>Pro/专业版套餐解锁IPLC流媒体专线、CN2和直连线路，支持看Netflix/HULU/HBO/Pxxnhub等国外流媒体；</li>
 <li>Apple服务加速(App Store、Apple Music、Apple流媒体、iCloud备份、iCloud Drive、iTunes等)；</li>
 <li>安卓服务加速(GooglePlay、谷歌全家桶、Youtube App等)；</li>
-<li>海外电商平台加速(日本亚马逊、美国亚马逊、日本乐天市场等)；</li>11111111111111
+<li>海外电商平台加速(日本亚马逊、美国亚马逊、日本乐天市场等)；</li>111111111111111
 <li>设计师网站加速(behance.com、dribbble.com、pinterest.com等)；</li>
 <li>国外通讯APP加速(Whats app、Line、kakao等)；</li>
 <li>国外常用学习网站加速(Google/Youtube/Twitter/Facebook/instagram/wikipedia/Github等)；</li>
