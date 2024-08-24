@@ -24,7 +24,7 @@ CMYNetwork，中文名称”红莓网络”，隶属于 CMYNetwork Technology Co
 <li>拥有自主开发的专用Trojan客户端(目前已支持Windows/MacOS/Android)，简单易用，对小白用户也是非常友好，苹果手机iOS系统使用小火箭Shadowrocket就可以了。</li>
 <li>CMYNetwork提供 QuantumultX、小火箭Shadowrocket、ClashR的专用Trojan订阅链接，也支持按等级获取订阅地址；</li>
 <li>有灵活多变的可跟套餐叠加的高速流量包，供您当月流量快用完时购买；<br>
-CMYNetwork流量用完后，仍旧提供无限量的限速流量，限速值为 2Mbps；</li>
+CMYNetwork流量用完后，仍旧提供无限量的限速流量，限速值为 2Mbps；</li>1
 <li>CMYNetwork不限制同时在线的设备数量，但是限制同时在线的公网IP数量，也就是在同1台路由器下不限制设备数量，无论多少设备同时在线只算做一个公网IP在线，这点非常适合各种规模的团队使用；</li>
 <li>注册并绑定手机号，赠送3天试用会员，绑定手机号是非强制的；</li>
 <li>购买半年付及以上套餐支持拼团功能，可以通过链接或者拼团码邀请亲朋好友一起购买半年及以上套餐，价格更实惠；</li>
